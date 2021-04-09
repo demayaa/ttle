@@ -45,7 +45,7 @@ const main = async () => {
     });
     bot.launch({
       webhook: {
-        domain: 'https://myaddress.com',
+        domain: 'https://bot.cryptoteam.biz',
         port: 4000
       }
     });
